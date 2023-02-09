@@ -1,0 +1,4 @@
+Login: root
+Password: ""
+DB_NAME: labrob8
+ROWS: fullname, email, username, user_pass
